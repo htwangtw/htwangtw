@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I am Hao-Ting 👋
+
+- I am a cognitive neuroscientist at the Sackler Centre for Consciousness Science, University of Sussex. 
+- 🔭 I investigate the relationship between brain and behaviour in a multvariate manner on large dataset.
+- 🌱 I’m currently learning better software development practice for data science projects.
 
 <!--
 **htwangtw/htwangtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
