@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hao-Ting's GitHub stats](https://github-readme-stats.vercel.app/api?username=htwangtw&show_icons=true&hide=commits)](https://github.com/htwangtw)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SIMEXP&repo=load_confounds)](https://github.com/SIMEXP/load_confounds) -->
+[![Hao-Ting's GitHub stats](https://github-readme-stats.vercel.app/api?username=htwangtw&show_icons=true&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
