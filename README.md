@@ -1,7 +1,8 @@
 ### Hi there I am Hao-Ting 👋
 
-- I am a postdoc researcher at CRIUGM, Montreal, Canada.
-- I work on neuroimage biomarker discovery and neuroinformatics concering data infrastructure and fMRI data.
+I am a postdoc researcher of [laboratory for brain simulation and exploration](https://github.com/SIMEXP) at CRIUGM, Montreal, Canada. My current research focuses on brain connectivity-based biomarker discovery through machine learning. I am passionate about data infrastructure and software engineering in scientific research. My open source contribution includes, but not limited to: neuroscience and machine learning software [Nilearn](https://github.com/nilearn/nilearn), [cca-zoo](https://github.com/jameschapman19/cca_zoo/), and [pydra](https://github.com/nipype/pydra) workflow task [pydra-fsl](https://github.com/nipype/pydra-fsl). You can also find me at [brainhack](https://brainhack.org/) events. 
+
+Please find my full publication records on [Google Scholar](https://scholar.google.com/citations?hl=en&user=FrlzI8IAAAAJ).  
 
 <!--
 **htwangtw/htwangtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
