@@ -12,6 +12,8 @@ I am also an instructor and organsizer of [Brainhack School](https://school-brai
 
 Please find my full publication records on [Google Scholar](https://scholar.google.com/citations?hl=en&user=FrlzI8IAAAAJ).  
 
+[Presentation](https://docs.google.com/presentation/d/1OFwWjWMk5mLM5t2aNB1LuT8lU7j2k1V4w5wOWk6u2Kg/edit?usp=sharing)
+
 <!--
 **htwangtw/htwangtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
